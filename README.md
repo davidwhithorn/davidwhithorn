@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @davidwhithorn
+- Currently an Exstream Developer
 - 👀 I’m interested in full stack.
 - 🌱 I’m currently learning python.
 <!---
